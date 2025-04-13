@@ -281,11 +281,11 @@ Here are some tips:
 
 ## Developing
 
-If you want to help us to solve the issues, be it a bug, a feature or a question, you might need to fork and clone this project.
+If you'd like to help us address issues—whether it's fixing a bug, adding a feature, or asking a question—you may need to fork and clone this repository.
 
-To fork a project means you're going to have your own version of it under your own GitHub profile, you do it by clicking the "Fork" button on the top of any project's page on GitHub.
+Forking a project creates a personal copy of the repository under your GitHub account. You can do this by clicking the "Fork" button at the top of the project's GitHub page.
 
-Cloning a project means downloading it to your local machine, you do it in the command line:
+Cloning a project means copying it to your local machine. This can be done through the command line.
 
 ```sh
 git clone git@github.com:YOUR_GITHUB_USERNAME/bull-board.git
